@@ -1,5 +1,4 @@
-# Azure
-
+All Azure Services
 
 # Microsoft Entra ID
 
